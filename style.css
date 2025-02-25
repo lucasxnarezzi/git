@@ -1,4 +1,9 @@
 body {
     background-color: slateblue;
     color: #bbb;
+    justify-items: center;
+}
+
+h2 {
+    font-size: 40px;
 }
